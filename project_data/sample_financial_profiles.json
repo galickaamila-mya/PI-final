@@ -1,0 +1,5 @@
+[
+  {"profile_id":"user_001","age":28,"income":60000,"savings":10000,"expenses":45000,"debt":5000,"has_emergency_fund":false,"has_budget":true,"has_insurance":true},
+  {"profile_id":"user_002","age":35,"income":90000,"savings":50000,"expenses":55000,"debt":0,"has_emergency_fund":true,"has_budget":true,"has_insurance":true},
+  {"profile_id":"user_003","age":42,"income":75000,"savings":500,"expenses":70000,"debt":15000,"has_emergency_fund":false,"has_budget":false,"has_insurance":false}
+]
